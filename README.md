@@ -1,2 +1,2 @@
 # hello-world
-New depository
+This is my first commit. I hope it works
